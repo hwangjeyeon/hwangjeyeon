@@ -1,5 +1,8 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Hello)
+//Java
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+
 <!--
 **hwangjeyeon/hwangjeyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

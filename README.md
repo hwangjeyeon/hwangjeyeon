@@ -1,6 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving)
-![header](https://capsule-render.vercel.app/api?text=Hello)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hello)
 <!--
 **hwangjeyeon/hwangjeyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

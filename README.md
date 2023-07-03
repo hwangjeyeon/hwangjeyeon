@@ -1,6 +1,7 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&text=Hello)
-//Java
+![header](https://capsule-render.vercel.app/api?type=waving)
+
+
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 
 <!--

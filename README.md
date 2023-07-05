@@ -1,13 +1,36 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=Hi,Guys)
+<div align="center">
 
+<b>😀Hi! I'm Hwang-Je-Yeon</b>
 
+</div>
 
-### Languages
+***
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwangjeyeon&count_bg=%23A5DAFF&title_bg=%23000000&icon=lbry.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-수정 중...
+### Programming Languages
+
+<p align="left">
+<img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white"> 
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+
+---
+
+### Studying
+<p align="left">
+<img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"> 
+</p>
+
+---
+
+[![hwangjeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangjeyeon)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

@@ -40,7 +40,13 @@
 </p>
 
 ---
+
+![Hwang JeYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangjeyeon&theme=tokyonight&layout=compact&show_icons=true)
+![Hwang JeYeon's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hwangjeyeon&theme=tokyonight&layout=compact&show_icons=true)
+---
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwangjeyeon)](https://solved.ac/hwangjeyeon/)
+
 
 <!--
 **hwangjeyeon/hwangjeyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"> 
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 
 </p>
 
@@ -29,7 +30,6 @@
 ### Studying
 <p align="left">
 <img src="https://img.shields.io/badge/SPRING SECURITY-6DB33F?style=for-the-badge&logo=SPRINGSECURITY&logoColor=white">
-<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 
   
 </p>

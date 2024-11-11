@@ -30,7 +30,7 @@
 ### Studying
 <p align="left">
 <img src="https://img.shields.io/badge/SPRING SECURITY-6DB33F?style=for-the-badge&logo=SPRINGSECURITY&logoColor=white">
-
+<img src="https://img.shields.io/badge/REDIS-FF4438?style=for-the-badge&logo=REDIS&logoColor=white">
   
 </p>
 

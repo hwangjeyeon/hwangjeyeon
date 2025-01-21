@@ -43,7 +43,6 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwangjeyeon)](https://solved.ac/hwangjeyeon/)
-<a href="https://opgc.me/#/users/hwangjeyeon" target="_blank"><img src="https://prd-opgc-api.opgc.me/githubs/users/hwangjeyeon/tag/?theme=basic" /></a>
 
 --- 
 

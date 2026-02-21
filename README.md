@@ -29,7 +29,6 @@
 
 ---
 
-![Hwang JeYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangjeyeon&theme=tokyonight&layout=compact&show_icons=true)
 [![Velog's GitHub stats](https://velog-github-badge.vercel.app/badge/hwangjeyeon?thema=dark&posts=3)]([https://velog.io/@hwangjeyeon](https://velog.io/@hwangjeyeon/posts))
 
 ---
